@@ -10,8 +10,8 @@ Practical plans:
 * Exactly 1 test campaign
   - Other will be on different repos
   - The name will be: "Raid of the wicked"
-* Support for playing with one hand, left and right
-  - Keyboard or mouse
+* Support for playing with one hand
+  - Keyboard, mouse if possible
   - There is very specific reason for this but I won't tell it (:
 * Visual art will be in two forms: portraits or pics between walls of text
   - I cannot draw or buy drawings right now so it'll be only calligraphy art for portraits
