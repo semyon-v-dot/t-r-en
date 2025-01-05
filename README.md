@@ -3,6 +3,7 @@
 In very early development so no cool readme for now D:
 
 Practical plans:
+* Python because I'm lazy
 * Terminal User Interface (TUI)
   - CUI is for programmers only and I am not a "front-end dude" to make decent GUI
   - I understand that Dwarf Fortress is a mess, I never played it though
@@ -14,7 +15,8 @@ Practical plans:
   - There is very specific reason for this but I won't tell it (:
 * Visual art will be in two forms: portraits or pics between walls of text
   - I cannot draw or buy drawings right now so it'll be only calligraphy art for portraits
-* Python because I'm lazy
+* Data model for walls of text
+  - Bunch of txt files looks funny but it shouldn't be that way
 
 Abstract plans: 
 * Border between creative system and numerical one
