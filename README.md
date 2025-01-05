@@ -15,7 +15,7 @@ Practical plans:
   - There is very specific reason for this but I won't tell it (:
 * Visual art will be in two forms: portraits or pics between walls of text
   - I cannot draw or buy drawings right now so it'll be only calligraphy art for portraits
-* Data model for walls of text
+* Data model for all walls of text for on campaign
   - Bunch of txt files looks funny but it shouldn't be that way
 
 Abstract plans: 
