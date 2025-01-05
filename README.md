@@ -1,2 +1,3 @@
-# t-r-en
-Text RPGs Engine
+# TREn — Text RPGs Engine
+
+In very early development so no readme for now D:
