@@ -22,5 +22,5 @@ Abstract plans:
 * Border between creative system and numerical one
   - For example, names of classes — creative system, points of health — numerical system
   - Unification on the matter is impossible (or too complex for me) but I'll try anyway
-* Model of Cultivation Automated (MoCA) for world simulation
+* Model of Cultivation Automated (MoCA, "C" reads like "K") for world simulation
   - It's text RPG so it's easiest way to make a "living" world
