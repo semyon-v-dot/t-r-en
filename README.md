@@ -14,5 +14,7 @@ Plans:
   - Unification is impossible (or too complex for me) but I'll try anyway
 * Model of Cultivation Automated (MoKA)
   - It's text RPG so it's easiest way to make a "living" world
+* Support for playing with one hand
+  - Keyboard or mouse
 * Python because I'm lazy
 
