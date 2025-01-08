@@ -2,7 +2,8 @@
 
 In very early development so no cool readme for now D:
 
-Practical plans:
+### Practical plans
+
 * Python because I'm lazy
 * Terminal User Interface (TUI)
   - CUI is for programmers only and I am not a "front-end dude" to make decent GUI
@@ -14,13 +15,20 @@ Practical plans:
   - Keyboard, mouse if possible
   - There is very specific reason for this but I won't tell it (:
 * Visual art will be in two forms: portraits or pics between walls of text
-  - I cannot draw or buy drawings right now so it'll be only calligraphy art for portraits
+  - I cannot draw or buy drawings right now so it'll be only calligraphy neuro-art for portraits
 * Data model for all walls of text in a campaign
   - Bunch of txt files looks funny but it shouldn't be that way
+ 
+### Abstract Plans
 
-Abstract plans: 
-* Border between creative system and numerical one
-  - For example, names of classes — creative system, points of health — numerical system
-  - Unification on the matter is impossible (or too complex for me) but I'll try anyway
 * Model of Cultivation Automated (MoCA, "C" reads like "K") for world simulation
   - It's text RPG so it's easiest way to make a "living" world
+  - Exactly 3 levels of simulation
+    * 1 One on one opposition
+      * Skirmish, not a real battle
+    * 2 Moral, vigor and skills test
+      - For armies, groups and individuals
+      - May lead to a total defeat with 100% casualties
+    * 3 Massive Presence Expanding
+      - Any big social simulations contains buildings or camps
+      - Buildings do not "fight" however a garrison may defend itself, not a building
