@@ -15,7 +15,7 @@ In very early development so no cool readme for now D:
   - Keyboard, mouse if possible
   - There is very specific reason for this but I won't tell it (:
 * Visual art will be in two forms: portraits or pics between walls of text
-  - I cannot draw or buy drawings right now so it'll be only calligraphy neuro-art for portraits
+  - I cannot draw or buy drawings right now so it'll be only calligraphy art for portraits
 * Data model for all walls of text in a campaign
   - Bunch of txt files looks funny but it shouldn't be that way
  
