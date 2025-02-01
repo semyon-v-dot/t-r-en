@@ -4,8 +4,10 @@ In very early development so no cool readme for now D:
 
 ### Practical plans
 
-* Python
+* Rust
+  - I work with Python so I need some changes in my life
 * GUI
+  - TUI and CUI are for programmers only 
 * Test campaign in different repo
   - The name will be: "Raid of the wicked"
   - It'll be not in English
